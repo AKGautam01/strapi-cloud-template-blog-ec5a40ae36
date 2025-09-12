@@ -22,7 +22,7 @@ https://github.com/AKGautam01/strapi-cloud-template-blog-ec5a40ae36/blob/main/St
 
 ## 🎥 Video Explanation
 [Watch My Internship Submission Video](paste-your-video-link-here)
-
+https://1drv.ms/v/c/eaea67ab413cb1a3/EYoTf-Pasc9JlpjVE6sZDAQBmkRq6MoGBhB-fPRLw0EbJg?e=eUsALv
 https://github.com/AKGautam01/strapi-cloud-template-blog-ec5a40ae36/blob/main/St_Screenshot.png
 ---
 
