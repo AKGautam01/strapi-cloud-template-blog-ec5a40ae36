@@ -27,3 +27,27 @@ https://github.com/AKGautam01/strapi-cloud-template-blog-ec5a40ae36/blob/main/St
 ---
 
 > Created by Atul Kumar Gautam for PearlThoughts Internship Task
+
+## 🛠️ Tools & Technologies
+- Power Automate
+- GitHub Actions
+- Docker (if applicable)
+- IAM / EC2 (if applicable)
+
+## 🚀 Features
+- Automated onboarding flow
+- Role-based access control
+- Cloud integration with backend services
+
+## 📚 Documentation
+- Setup instructions
+- Troubleshooting notes
+- Workflow diagrams (optional)
+
+## 🧠 What I Learned
+- How to automate backend tasks using Power Automate
+- How to document workflows for reproducibility
+- How to troubleshoot IAM and EC2 configurations
+
+## 📬 Contact
+For questions or collaboration: [your email]
