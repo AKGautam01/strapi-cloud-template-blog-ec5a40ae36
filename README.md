@@ -50,4 +50,5 @@ https://github.com/AKGautam01/strapi-cloud-template-blog-ec5a40ae36/blob/main/St
 - How to troubleshoot IAM and EC2 configurations
 
 ## 📬 Contact
-For questions or collaboration: [your email]
+For questions or collaboration: atul.gautam22@gmail.com
+LinkedIn: https://www.linkedin.com/in/atul-kumar-gautam/
